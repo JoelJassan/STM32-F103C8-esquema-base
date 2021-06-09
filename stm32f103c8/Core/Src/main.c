@@ -103,8 +103,7 @@ int main(void)
 	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, 0);
 	  HAL_Delay(100);
 
-	  //dejo un solo comentario
-	  //comentario desde martin
+	  //LIMPIEZA para probar conflictos
 
     /* USER CODE BEGIN 3 */
   }
