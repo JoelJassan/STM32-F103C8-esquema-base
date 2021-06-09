@@ -100,6 +100,7 @@ int main(void)
 	  HAL_Delay(200);
 
 	  //Cambio texto 1, elimino texto 2
+	  //genero otro texto
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
