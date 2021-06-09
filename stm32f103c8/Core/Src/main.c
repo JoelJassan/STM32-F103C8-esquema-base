@@ -104,6 +104,7 @@ int main(void)
 	  HAL_Delay(100);
 
 	  //dejo un solo comentario
+	  //se edita el codigo agregando una linea en 107
 
 
     /* USER CODE BEGIN 3 */
