@@ -101,6 +101,8 @@ int main(void)
 
 	  //Cambio texto 1, elimino texto 2
 	  //genero otro texto
+	  //texto para develop
+
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
