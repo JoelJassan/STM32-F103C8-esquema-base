@@ -104,8 +104,8 @@ int main(void)
 	  HAL_Delay(100);
 
 	  //LIMPIEZA para probar conflictos
-	  //Codigo de Martin (colaborador).
-	  //Codigo de Joel (main).
+	  //Codigo de Martin (colaborador)
+	  //Codigo de Joel (main)
 
     /* USER CODE BEGIN 3 */
   }
