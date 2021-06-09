@@ -104,7 +104,7 @@ int main(void)
 	  HAL_Delay(100);
 
 	  //dejo un solo comentario
-
+	  //comentario desde martin
 
     /* USER CODE BEGIN 3 */
   }
