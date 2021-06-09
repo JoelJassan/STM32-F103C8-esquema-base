@@ -104,6 +104,7 @@ int main(void)
 	  HAL_Delay(100);
 
 	  //LIMPIEZA para probar conflictos
+	  //Codigo de Joel (main)
 
     /* USER CODE BEGIN 3 */
   }
