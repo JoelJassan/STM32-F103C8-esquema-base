@@ -97,9 +97,18 @@ int main(void)
 	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, 1);
 	  HAL_Delay(800);
 	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, 0);
-	  HAL_Delay(200);
+	  HAL_Delay(100);
+	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, 1);
+	  HAL_Delay(100);
+	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, 0);
+	  HAL_Delay(100);
 
 	  //Cambio texto 1, elimino texto 2
+	  //genero otro texto
+	  //texto para develop
+	  //prueba
+
+
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
