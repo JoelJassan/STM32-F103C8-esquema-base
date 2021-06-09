@@ -104,6 +104,7 @@ int main(void)
 	  HAL_Delay(100);
 
 	  //dejo un solo comentario
+	  //ghfg
 
 
     /* USER CODE BEGIN 3 */
