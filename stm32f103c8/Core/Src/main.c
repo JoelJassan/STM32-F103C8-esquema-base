@@ -109,6 +109,10 @@ int main(void)
 	  //prueba
 
 
+
+	  //linea para modificacion de Martin, pero sin influencia del feature funcionTest generado en Joel
+
+
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
