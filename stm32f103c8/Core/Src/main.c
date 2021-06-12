@@ -103,9 +103,11 @@ int main(void)
 	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, 0);
 	  HAL_Delay(100);
 
-	  //LIMPIEZA para probar conflictos
-	  //Codigo de Martin (colaborador)
-	  //Codigo de Joel (main)
+	  //Cambio texto 1, elimino texto 2
+	  //genero otro texto
+	  //texto para develop
+	  //prueba
+
 
     /* USER CODE BEGIN 3 */
   }
