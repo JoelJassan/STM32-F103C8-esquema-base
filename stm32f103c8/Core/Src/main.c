@@ -103,10 +103,7 @@ int main(void)
 	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, 0);
 	  HAL_Delay(100);
 
-	  //Cambio texto 1, elimino texto 2
-	  //genero otro texto
-	  //texto para develop
-	  //prueba
+	  //TEXTO QUE AGREGO POR FEATURE. Elimino lineas de codigo
 
 
     /* USER CODE BEGIN 3 */
