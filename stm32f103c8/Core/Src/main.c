@@ -97,16 +97,17 @@ int main(void)
 	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, 1);
 	  HAL_Delay(800);
 	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, 0);
-	  HAL_Delay(50);
+	  HAL_Delay(100);
 	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, 1);
-	  HAL_Delay(50);
+	  HAL_Delay(100);
 	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, 0);
-	  HAL_Delay(50);
-	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, 1);
-	  HAL_Delay(50);
-	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_12, 0);
-	  HAL_Delay(50);
+	  HAL_Delay(100);
 
+	  //TEXTO QUE AGREGO POR FEATURE. Elimino lineas de codigo
+
+
+
+	  //linea para modificacion de Martin, pero sin influencia del feature funcionTest generado en Joel
 
 
     /* USER CODE BEGIN 3 */
