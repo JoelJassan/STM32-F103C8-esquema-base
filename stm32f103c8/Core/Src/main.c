@@ -104,7 +104,7 @@ int main(void)
 	  HAL_Delay(50);
 	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, 1);
 	  HAL_Delay(50);
-	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, 0);
+	  HAL_GPIO_WritePin(GPIOC, GPIO_PIN_12, 0);
 	  HAL_Delay(50);
 
 
